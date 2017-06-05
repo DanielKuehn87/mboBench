@@ -1,0 +1,9 @@
+Package: mboBench
+Title: Benchmark mbo
+Version: 0.0.0.9000
+Authors@R: person("Daniel", "Kühn", email = "Daniel.Kuehn.87@gmail.com", role = c("aut", "cre"))
+Description: Benchmarking of mbo vs other hyperparameter optimization methods
+Depends: R (>= 3.3.2)
+License: MIT License
+Encoding: UTF-8
+LazyData: true
